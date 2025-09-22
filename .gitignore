@@ -1,0 +1,19 @@
+# Node / Frontend
+netology-diplom-frontend/
+node_modules/
+dist/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
