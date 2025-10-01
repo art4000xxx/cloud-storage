@@ -70,7 +70,8 @@ SuccessResponse — для успешных операций
 ErrorResponse — для ошибок
 
 RenameFileRequest — для переименования файлов
-Автор:
+Автор
+
 art4000xxx
 
 
