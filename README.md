@@ -61,7 +61,7 @@ cloud-storage/
 Настройки CORS уже настроены на http://localhost:8081
 
 Логин: admin / 123
-DTO
+# DTO
 
 Все ответы и запросы используют DTO, чтобы не работать с Map и JSON руками, например:
 
@@ -70,7 +70,7 @@ SuccessResponse — для успешных операций
 ErrorResponse — для ошибок
 
 RenameFileRequest — для переименования файлов
-Автор
+# Автор
 
 art4000xxx
 
