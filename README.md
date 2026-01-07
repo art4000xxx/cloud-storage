@@ -71,8 +71,8 @@ ErrorResponse — для ошибок
 
 RenameFileRequest — для переименования файлов
 # Автор
-
 art4000xxx
+# Обновление v2.0
 
 
 
